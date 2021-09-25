@@ -13,10 +13,13 @@ run "ipconfig /flushdns"
 #How to deploy
 
 Right click Project Select Public
-![Image 1](/howto/image1.png)
+
+![Image 1](HowTo/image1.png)
 
 Select Import profile
-![Image 2](/howto/image2.png)
+
+![Image 2](HowTo/image2.png)
 
 Click Publish Then put your Password
-![Image 3](/howto/image3.png)
+
+![Image 3](HowTo/image3.png)
