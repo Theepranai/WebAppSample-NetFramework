@@ -10,7 +10,8 @@ add "103.13.31.240 nackthebiker.com" and save file
 
 run "ipconfig /flushdns"
 
-#How to deploy
+
+# How to deploy
 
 Right click Project Select Public
 
